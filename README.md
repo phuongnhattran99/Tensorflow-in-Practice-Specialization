@@ -4,7 +4,7 @@
 3) Build natural language processing systems using TensorFlow.  
 4) Apply RNNs, GRUs, and LSTMs as you train them using text repositories.
 
-# SKILLS YOU WILL GAIN
+# SKILLS WILL GAIN
 Computer Vision\
 Convolutional Neural Network\
 Machine Learning\
